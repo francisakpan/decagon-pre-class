@@ -1,2 +1,2 @@
 # decagon-pre-class
-Decagon preparation class
+Decagon preparatory class
